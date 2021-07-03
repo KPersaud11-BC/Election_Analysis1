@@ -1,10 +1,10 @@
 # Election_Analysis1 By Kieran Persaud
 
 ## Project Overview
-A Colorado Board of Elections employee has given me the following taskis to complete the election adit of a recent local congressional elections.
+A Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
-2. Get a complte list of candidates who received votes.
+2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
@@ -25,7 +25,7 @@ The analysis of the election shows that:
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
   - Raymond Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election wasL
-  -Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
 ## Challenge Overview
  
